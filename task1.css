@@ -1,0 +1,44 @@
+#mytable{
+	background-color: #eee;
+}
+
+div {
+	color: green;
+}
+
+#list{
+	color: #aaa;
+}
+.marks{
+	color:red;
+}
+.marks1{
+	color:yellow;
+}
+.marks2{
+	color:purple;
+}
+.marks3{
+	color:orange;
+}
+h2:hover{
+	color: red;
+	font-size: 30px;
+	font-family: verdana;
+	font-style: italic;
+	font-weight: bold;
+	text-decoration: underline;
+}
+a:link{
+	color: blue;
+}
+a:visited{
+	color: purple;
+}
+a:hover{
+	color: red;
+	font-size: 20px;
+}
+a:active{
+	color: green;
+}
